@@ -1,3 +1,14 @@
+
+.darkMood{
+
+    
+    background-color: rgb(55, 55, 55);
+    color: #f9f7f1;
+    
+}
+
+        
+
 body{
     font-family: 'Droid Serif', serif;
     font-size: 14px;
